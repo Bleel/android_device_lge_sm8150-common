@@ -288,8 +288,8 @@ PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.lge_msmnile
 
 # LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.lge_msmnile
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.livedisplay@2.0-service.lge_msmnile
 
 # Media
 PRODUCT_COPY_FILES += \
@@ -459,12 +459,12 @@ PRODUCT_PACKAGES += \
     textclassifier.bundle1
 
 # Touch
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.lge_msmnile
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.touch@1.0-service.lge_msmnile
 
 # Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+#    vendor.lineage.trust@1.0-service
 
 # Update engine
 PRODUCT_PACKAGES += \
